@@ -1,3 +1,5 @@
+"Very good vimrc example
+
 "set t_Co=65535
 "set t_Co=256
 syntax on
